@@ -5,3 +5,4 @@ langchain-community
 google-generativeai
 langchain-google-genai
 pygwalker
+numexpr

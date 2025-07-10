@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlite3
+langchain
+google-generativeai
+pygwalker
+tempfile

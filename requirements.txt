@@ -2,4 +2,5 @@ streamlit
 pandas
 langchain
 google-generativeai
+langchain-google-genai
 pygwalker

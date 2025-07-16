@@ -1,4 +1,5 @@
 # 🤖 Database AI Agent: Intelligent Data Interrogation System
+Hosted on streamlit[https://ai-database-analyst-agent-n8auobq2whyfddmxlr4cmx.streamlit.app/](link🔗)
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com/)
